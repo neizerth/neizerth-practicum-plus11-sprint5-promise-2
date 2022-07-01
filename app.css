@@ -1,0 +1,21 @@
+.girl-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+.preloader {
+    font-family: "Helvetica Neue", sans-serif;
+    background-color: #FFF;
+    font-size: 50px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
